@@ -1,0 +1,71 @@
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\appsettings.json
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.staticwebassets.runtime.json
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.exe
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.deps.json
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.runtimeconfig.json
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\WebStore.pdb
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.AssemblyReference.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.AssemblyInfoInputs.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.AssemblyInfo.cs
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.RazorAssemblyInfo.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.RazorAssemblyInfo.cs
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\scopedcss\bundle\WebStore.styles.css
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\scopedcss\projectbundle\WebStore.bundle.scp.css
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\refint\WebStore.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.pdb
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.genruntimeconfig.cache
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\ref\WebStore.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\xrist\source\repos\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.CopyComplete
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.staticwebassets.runtime.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.exe
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.deps.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.runtimeconfig.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\WebStore.pdb
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.AssemblyReference.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.AssemblyInfoInputs.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.AssemblyInfo.cs
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.RazorAssemblyInfo.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.RazorAssemblyInfo.cs
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets\msbuild.WebStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets\msbuild.build.WebStore.props
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebStore.props
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebStore.props
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\scopedcss\bundle\WebStore.styles.css
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\scopedcss\projectbundle\WebStore.bundle.scp.css
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.csproj.CopyComplete
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\refint\WebStore.dll
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.pdb
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\WebStore.genruntimeconfig.cache
+C:\Users\Χρηστος\Desktop\Πτυχιακη\Case Studies\Razor Pages\Clients CRUD (Razor Pages SQL Server)\WebStore\WebStore\obj\Debug\net6.0\ref\WebStore.dll
